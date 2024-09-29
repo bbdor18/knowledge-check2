@@ -1,0 +1,15 @@
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.AssemblyInfoInputs.cache
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.AssemblyInfo.cs
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.csproj.CoreCompileInputs.cache
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.sourcelink.json
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\bin\Debug\net8.0\knowledge-check2.exe
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\bin\Debug\net8.0\knowledge-check2.deps.json
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\bin\Debug\net8.0\knowledge-check2.runtimeconfig.json
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\bin\Debug\net8.0\knowledge-check2.dll
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\bin\Debug\net8.0\knowledge-check2.pdb
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.dll
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\refint\knowledge-check2.dll
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.pdb
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\knowledge-check2.genruntimeconfig.cache
+C:\Users\kentu\source\repos\knowledge-check2\knowledge-check2\obj\Debug\net8.0\ref\knowledge-check2.dll
